@@ -1,0 +1,56 @@
+ .home {
+     /* background-image: url('pexels-alex-montes-1820563.jpg'); */
+    background-size: 1900px; 
+    background-image: linear-gradient(100deg, rgb(227, 248, 248), rgba(172, 17, 229, 0.732));
+} */
+
+body {
+    background-image: linear-gradient(45deg, rgb(228, 212, 222), rgba(191, 19, 120, 0.732));
+    color: rgb(0, 0, 0);
+    
+}
+.div1, .li2{
+    font-size: 2em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.mpsl {
+    background-image: linear-gradient(90deg, rgb(226, 183, 241), rgb(124, 243, 243)) ;
+    color: rgb(0, 0, 0);
+}
+
+  .a1 {
+    color: rgb(0, 0, 0);
+    font-size: 50px; 
+    text-shadow: 2px 2px 2px rgb(201, 20, 213);
+}
+.a8 {
+    color: rgb(0, 0, 0);
+    font-size: 50px; 
+    text-shadow: 2px 2px 2px rgb(240, 15, 15);
+
+}
+.d1{
+    font-size: 20px;
+}
+.mail {
+    font-size:large;
+}
+.hom {
+    color: blue;
+    font-size: large;
+
+}
+.abo {
+    color: blue;
+    font-size: large;
+}
+.outdor {
+    background-color: rgb(157, 236, 247);
+ font-size: larger;   
+}
+.rs{
+    text-shadow: 1px 1px 2px red;
+}
+.bs {
+    text-shadow: 1px 1px 1px rgb(3, 11, 241);
+}
